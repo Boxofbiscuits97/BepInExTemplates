@@ -21,21 +21,6 @@
 > [!NOTE]  
 > You must use .NET SDK 10 or newer to use this template. You can check your .NET SDK version by running the following in a terminal: `dotnet --version`. To download .NET SDK, see: <https://dotnet.microsoft.com/en-us/download>
 
-### From NuGet (Recommended)
-
-Run the following command:
-
-```bash
-dotnet new install SWYFModding.BepInExTemplate
-```
-
-> [!TIP]  
-> You can run `dotnet new update` to update all your dotnet templates. You should do this get the latest versions of everything with the latest fixes and improvements!
-
-### Manually
-
-If you're contributing to the template or prefer a manual installation:
-
 1. Clone or download this repository
 2. Open a terminal at the root of the repository
 3. Run:
